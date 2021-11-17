@@ -14,7 +14,9 @@
     <main class="container py-3">
         <section>
             <h3>Main section</h3>
-            <h3>2nd section</h3>
+        </section>
+        <section>
+            <h3>Secondary section</h3>
         </section>
     </main>
     <footer>
