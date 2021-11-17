@@ -1,3 +1,7 @@
+<?php
+$date = date("d M Y");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,6 +27,9 @@
     </header>
     <main class="container py-3">
         <section>
+
+            <h3>Main section</h3>
+            <p>Bonjour, nous somme <?= $date ?></p>
             <h3>Formulaire</h3>
             <form class="d-flex flex-column w-50" action="" method="POST">
                 <label for="login">identifiant</label>
