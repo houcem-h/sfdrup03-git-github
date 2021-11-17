@@ -10,6 +10,13 @@
 <body>
     <header>
         <h2>Title of the page</h2>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     <main class="container py-3">
         <section>
