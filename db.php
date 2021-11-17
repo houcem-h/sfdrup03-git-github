@@ -7,10 +7,8 @@ class Db {
     private $user;
     private $pass;
     private $dbname;
-    private $port;
-    private $charset;
 
-    public function __construct($host, $user, $pass, $dbname, $port, $charset) {
+    public function __construct($host, $user, $pass, $dbname) {
         $this->host = $host;
         $this->user = $user;
         $this->pass = $pass;
