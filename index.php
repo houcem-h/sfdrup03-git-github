@@ -1,3 +1,7 @@
+<?php
+$date = date("d M Y");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,6 +25,7 @@
     <main class="container py-3">
         <section>
             <h3>Main section</h3>
+            <p>Bonjour, nous somme <?= $date ?></p>
         </section>
         <section>
             <h3>Secondary section</h3>
