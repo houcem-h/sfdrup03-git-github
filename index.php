@@ -31,6 +31,9 @@ $date = date("d M Y");
             <h3>Main section</h3>
             <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum</p>
             <p>Bonjour, nous somme le <?= $date ?></p>
+
+            <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum</p>
+            <p>Bonjour, nous somme <?= $date ?></p>
             <h3>Formulaire</h3>
             <form class="d-flex flex-column w-50" action="" method="POST">
                 <label for="login">identifiant</label>
@@ -39,6 +42,9 @@ $date = date("d M Y");
                 <input type="password" id="password" name="password">
                 <button type="submit" name="submit">Enregistrer</button>
             </form>
+        </section>
+        <section>
+            <h3>Secondary section</h3>
         </section>
         <section>
             <h3>Secondary section</h3>
