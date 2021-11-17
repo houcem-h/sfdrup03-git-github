@@ -29,6 +29,8 @@ $date = date("d M Y");
         <section>
 
             <h3>Main section</h3>
+
+            <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum</p>
             <p>Bonjour, nous somme <?= $date ?></p>
             <h3>Formulaire</h3>
             <form class="d-flex flex-column w-50" action="" method="POST">
