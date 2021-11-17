@@ -11,7 +11,7 @@
     <header>
         <h2>Title of the page</h2>
     </header>
-    <main>
+    <main class="container py-3">
         <section>
             <h3>Main section</h3>
         </section>
