@@ -7,6 +7,16 @@
     <title>Home page</title>
 </head>
 <body>
-    
+    <header>
+        <h2>Title of the page</h2>
+    </header>
+    <main>
+        <section>
+            <h3>Main section</h3>
+        </section>
+    </main>
+    <footer>
+        <h3>Footer of the page</h3>
+    </footer>
 </body>
 </html>
