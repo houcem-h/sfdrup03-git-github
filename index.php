@@ -22,6 +22,9 @@
         <section>
             <h3>Main section</h3>
         </section>
+        <section>
+            <h3>Secondary section</h3>
+        </section>
     </main>
     <footer>
         <h3>Footer of the page</h3>
